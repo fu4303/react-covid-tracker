@@ -1,5 +1,6 @@
 # COVID-19 TRACKER APP
 
+<img src="covid19.png">
 
 ## Live site diplay: https://react-covid-tracker-git-master-fu4303.vercel.app
 
